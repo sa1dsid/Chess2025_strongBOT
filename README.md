@@ -1,2 +1,18 @@
-# Chess2025_strongBOT
-Всем известная игра "Chess2025_strongBOT — это шахматное приложение, написанное на Python, с интеграцией игрового движка Stockfish для мощного анализа и игры против компьютера."в шахматы. 
+## Требования
+
+- Python 3.8
+- Git
+
+## Установка
+
+bash```
+git clone https://github.com/sa1dsid/Chess2025_strongBOT.git
+cd Chess2025_strongBOT
+pip install -r requirements.txt
+```
+
+## Запуск
+
+bash```
+python main.py
+```
